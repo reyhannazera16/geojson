@@ -1,0 +1,6385 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 1,
+        "NAMA_UMKM": "Towebaseops",
+        "ALAMAT": "FQ44+G7, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat",
+        "Latitude": -6.5437219,
+        "Longitude": 106.7557253,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7557253,
+          -6.5437219,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 2,
+        "NAMA_UMKM": "Frozen Bakso Sony Lampung",
+        "ALAMAT": "Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5440701,
+        "Longitude": 106.7593529,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7593529,
+          -6.5440701,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 3,
+        "NAMA_UMKM": "Torangpu Kopi",
+        "ALAMAT": "Jl. Salabenda Raya, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5346435,
+        "Longitude": 106.7611747,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7611747,
+          -6.5346435,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 4,
+        "NAMA_UMKM": "Warung Teh Ipit",
+        "ALAMAT": "FQ87+P53, Jl. Salabenda Raya, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5332477,
+        "Longitude": 106.7629165,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7629165,
+          -6.5332477,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 5,
+        "NAMA_UMKM": "Kopi Pace",
+        "ALAMAT": "FQ86+9C4, Jl. Salabenda Raya, Bojong, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5341156,
+        "Longitude": 106.7610773,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7610773,
+          -6.5341156,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 6,
+        "NAMA_UMKM": "PESONA COFFEE",
+        "ALAMAT": "Kios, Jl. Raya Semplak No.99, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5452768,
+        "Longitude": 106.7599269,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7599269,
+          -6.5452768,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 7,
+        "NAMA_UMKM": "Soto mie Bogor AA mhonix",
+        "ALAMAT": "FQ36+53F, Jl. Subagiono, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.547058,
+        "Longitude": 106.760171,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.760171,
+          -6.547058,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 8,
+        "NAMA_UMKM": "Dapur OKE",
+        "ALAMAT": "Jalan saurajim gang mustofa Rt.02 Rw.10, Kel. Semplak Kec. Kota, RT.02/RW.10, Semplak, Kec. Bogor Bar., Bogor Barat, Jawa Barat 16114",
+        "Latitude": -6.547219,
+        "Longitude": 106.7616859,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7616859,
+          -6.547219,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 9,
+        "NAMA_UMKM": "Jaya Makmur 2",
+        "ALAMAT": "Ats, Jl. Raya Semplak, Depan Pasar Kapuk No.230, RT.02/RW.10, Semplak Bar., Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5468611,
+        "Longitude": 106.760068,
+        "JENIS_UMKM": "Elektronik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Elektronik",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.760068,
+          -6.5468611,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 10,
+        "NAMA_UMKM": "Mulya Electronik Service",
+        "ALAMAT": "RT.02/RW.10, Semplak Bar., Kec. Bogor Bar., Kota Bogor, Jawa Barat 16310",
+        "Latitude": -6.54781,
+        "Longitude": 106.7618549,
+        "JENIS_UMKM": "Elektronik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Elektronik",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7618549,
+          -6.54781,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 12,
+        "NAMA_UMKM": "FARAKA STORE",
+        "ALAMAT": "Jl. Masjid Al Hikmah No.22, RT.02/RW.10, Semplak Bar., Kec. Bogor Bar., Kota Bogor, Jawa Barat 16310",
+        "Latitude": -6.54848,
+        "Longitude": 106.76083,
+        "JENIS_UMKM": "Barang",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76083,
+          -6.54848,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 13,
+        "NAMA_UMKM": "Toko Jaya Makmur",
+        "ALAMAT": "Jl. Atang Senjaya No.36, Semplak Bar., Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5472989,
+        "Longitude": 106.7561255,
+        "JENIS_UMKM": "Barang dan Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang dan Jasa",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7561255,
+          -6.5472989,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 14,
+        "NAMA_UMKM": "BATU NISAN MURAH",
+        "ALAMAT": "Gg. Puma, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5399424,
+        "Longitude": 106.7637767,
+        "JENIS_UMKM": "Barang",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7637767,
+          -6.5399424,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 15,
+        "NAMA_UMKM": "kedai Bom Bom",
+        "ALAMAT": "Jl. Kayumanis Bondol No.5, Atang Senjaya, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16113",
+        "Latitude": -6.5409136,
+        "Longitude": 106.7617799,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7617799,
+          -6.5409136,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 17,
+        "NAMA_UMKM": "Ries Bakery",
+        "ALAMAT": "Kios Skatek, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5343369,
+        "Longitude": 106.7610926,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7610926,
+          -6.5343369,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 18,
+        "NAMA_UMKM": "Hamarin Studio's",
+        "ALAMAT": "Jl. Surajim No.16B, RT.003/RW.005, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.54693,
+        "Longitude": 106.761501,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.761501,
+          -6.54693,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 19,
+        "NAMA_UMKM": "Mitra Variasi",
+        "ALAMAT": "Jl. Raya Semplak No.02, RT.02/RW.10, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5454225,
+        "Longitude": 106.7604848,
+        "JENIS_UMKM": "Barang dan Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang dan Jasa",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7604848,
+          -6.5454225,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 20,
+        "NAMA_UMKM": "Toko Alat Jahit YULIANA",
+        "ALAMAT": "Pasar Kapuk, jalan Raya Semplak, Kemang Bogor, Jawa Barat 16310, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5461435,
+        "Longitude": 106.7601414,
+        "JENIS_UMKM": "Barang",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7601414,
+          -6.5461435,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 22,
+        "NAMA_UMKM": "DeaAmelia food",
+        "ALAMAT": "Kp.bulak, RT.03/RW.01, Kota Bogor, Jawa Barat",
+        "Latitude": -6.5462657,
+        "Longitude": 106.7629043,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7629043,
+          -6.5462657,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 23,
+        "NAMA_UMKM": "GALERI IKAN PREDATOR BOGOR",
+        "ALAMAT": "Jl. Subagiono No.1, RT.05/RW.2, Atang Senjaya, Kec. Kemang, Kota Bogor, Jawa Barat 16310",
+        "Latitude": -6.54616,
+        "Longitude": 106.759916,
+        "JENIS_UMKM": "Industri Perikanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Industri Perikanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.759916,
+          -6.54616,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 24,
+        "NAMA_UMKM": "WARFE BOGOR",
+        "ALAMAT": "Jalan Raya Semplak Ruko Primkopau, RW.Skadron 8, Atang Senjaya, Kec. Kemang, Kota Bogor, Jawa Barat 16310",
+        "Latitude": -6.5405252,
+        "Longitude": 106.7604553,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7604553,
+          -6.5405252,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 27,
+        "NAMA_UMKM": "Wiens, Dapoer97",
+        "ALAMAT": "Jl. Sarjio No.16, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5431183,
+        "Longitude": 106.7615917,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7615917,
+          -6.5431183,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 28,
+        "NAMA_UMKM": "Tabo Chips",
+        "ALAMAT": "Jl. Raja Palem No.18, RT.02/RW.08, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5441594,
+        "Longitude": 106.7648481,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7648481,
+          -6.5441594,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 29,
+        "NAMA_UMKM": "Joker Barbershop",
+        "ALAMAT": "Jl. Raya Semplak No.3, RT.02/RW.10, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.544942,
+        "Longitude": 106.760509,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.760509,
+          -6.544942,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 30,
+        "NAMA_UMKM": "KINGZ BARBERSHOP SEMPLAK",
+        "ALAMAT": "FQ46+33W, Komp. TNI AU Atang Sanjaya, Jalan Raya Semplak, Semplak Barat, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5447603,
+        "Longitude": 106.7601876,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7601876,
+          -6.5447603,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 31,
+        "NAMA_UMKM": "J&T CARGO ATANG SANJAYA",
+        "ALAMAT": "FQ36+X38, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5450875,
+        "Longitude": 106.7602031,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7602031,
+          -6.5450875,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 32,
+        "NAMA_UMKM": "Toko Pia Ardhya Garini",
+        "ALAMAT": "FQ46+8P4, Jl. Sarjio, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5442315,
+        "Longitude": 106.7618327,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7618327,
+          -6.5442315,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 33,
+        "NAMA_UMKM": "Nasi Uduk Cekre",
+        "ALAMAT": "Jl. RSAU No.6, RT.02/RW.05, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5449006,
+        "Longitude": 106.7627809,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7627809,
+          -6.5449006,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 34,
+        "NAMA_UMKM": "Rujak Buah Sunpride Teh Ziya",
+        "ALAMAT": "Jl. RSAU No.9, RT.02/RW.05, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5453241,
+        "Longitude": 106.7631837,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7631837,
+          -6.5453241,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 35,
+        "NAMA_UMKM": "Dans gift (toko aneka kado)",
+        "ALAMAT": "Jl. Raya Semplak No.11, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5463827,
+        "Longitude": 106.7601069,
+        "JENIS_UMKM": "Barang",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7601069,
+          -6.5463827,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 36,
+        "NAMA_UMKM": "Rumah Kue Budeh Yem",
+        "ALAMAT": "Jl. Raya Semplak No.50, Atang Senjaya, Kec. Kemang, Kota Bogor, Jawa Barat 16310",
+        "Latitude": -6.5465911,
+        "Longitude": 106.7600697,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7600697,
+          -6.5465911,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 37,
+        "NAMA_UMKM": "Wacana Kopi Danar",
+        "ALAMAT": "Jl. Subagiono No.4, RW.1, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5472907,
+        "Longitude": 106.7595912,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7595912,
+          -6.5472907,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 38,
+        "NAMA_UMKM": "Karedok sunda ibu ati",
+        "ALAMAT": "Jl. RSAU No.29, RT.17/RW.05, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.544561,
+        "Longitude": 106.7636142,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7636142,
+          -6.544561,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 39,
+        "NAMA_UMKM": "Agamnasbox",
+        "ALAMAT": "blok CG no 1, Jl. Rusdarmoyo, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5372313,
+        "Longitude": 106.7630241,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Atang Sanjaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7630241,
+          -6.5372313,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 130,
+        "NAMA_UMKM": "Mie ayam pak Dani",
+        "ALAMAT": "FQ73+46C, Bojong, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5371994,
+        "Longitude": 106.7530091,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7530091,
+          -6.5371994,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 131,
+        "NAMA_UMKM": "BellbyQuee - Soniariestiani",
+        "ALAMAT": "FQ62+W9R, Bojong, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5376318,
+        "Longitude": 106.7508962,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7508962,
+          -6.5376318,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 132,
+        "NAMA_UMKM": "Taruna tani sub.unit ikan lele(briding). Bhakti taruna Bojong kidul",
+        "ALAMAT": "Jl. Raya Bojong No.24, RT.01/RW.3, Bojong, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5383483,
+        "Longitude": 106.7506417,
+        "JENIS_UMKM": "Industri Perikanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Industri Perikanan",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7506417,
+          -6.5383483,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 133,
+        "NAMA_UMKM": "Bobbyaquascape",
+        "ALAMAT": "FP6X+PX9, Bojong, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5382089,
+        "Longitude": 106.7499785,
+        "JENIS_UMKM": "Industri Perikanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Industri Perikanan",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7499785,
+          -6.5382089,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 134,
+        "NAMA_UMKM": "PT Berlys Choco Indonesia",
+        "ALAMAT": "FP6X+QRJ, Bojong, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5380281,
+        "Longitude": 106.7494403,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7494403,
+          -6.5380281,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 135,
+        "NAMA_UMKM": "Pangkas rambut si kembar",
+        "ALAMAT": "Jl. Raya Bojong, Bojong, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5376874,
+        "Longitude": 106.7475921,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7475921,
+          -6.5376874,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 136,
+        "NAMA_UMKM": "TOKO KUE KITA",
+        "ALAMAT": "FP7X+87R, Jl. Curug Mekar, RT.04/RW.06, Curugmekar, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16113",
+        "Latitude": -6.5366264,
+        "Longitude": 106.7481308,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7481308,
+          -6.5366264,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 137,
+        "NAMA_UMKM": "Waroeng kampoeng",
+        "ALAMAT": "Jl. Raya Bojong, Bojong, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.537075,
+        "Longitude": 106.7481769,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7481769,
+          -6.537075,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 138,
+        "NAMA_UMKM": "RDR MOTOR",
+        "ALAMAT": "Kp.bojong kidul Rt.02 Rw.03 no.84 dsa, Bojong, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5245504,
+        "Longitude": 106.7500025,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7500025,
+          -6.5245504,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 139,
+        "NAMA_UMKM": "Kios Pupuk Ragusta",
+        "ALAMAT": "Bojong, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5364029,
+        "Longitude": 106.7478169,
+        "JENIS_UMKM": "Barang",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7478169,
+          -6.5364029,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 140,
+        "NAMA_UMKM": "KIOS UNGGAS LUMBUNG KEMANG",
+        "ALAMAT": "FP8X+X8H, Jl. Raya Lumbung, Bojong, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5325568,
+        "Longitude": 106.7483534,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7483534,
+          -6.5325568,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 141,
+        "NAMA_UMKM": "MARTABAK AL'BAROKAH BOJONG PERAPATAN",
+        "ALAMAT": "FP9X+9C2, Bojong, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5316236,
+        "Longitude": 106.7485305,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7485305,
+          -6.5316236,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 142,
+        "NAMA_UMKM": "Jelly Potter Bojong Kemang",
+        "ALAMAT": "Jl. Raya Bojong No.16-20, Bojong, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5302101,
+        "Longitude": 106.748065,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.748065,
+          -6.5302101,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 143,
+        "NAMA_UMKM": "Petex wedding decoration",
+        "ALAMAT": "Desa Jl. Bojong Kaum, RT.001/RW.001, Bojong, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.529685,
+        "Longitude": 106.7494835,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7494835,
+          -6.529685,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 144,
+        "NAMA_UMKM": "Betta Baragazul",
+        "ALAMAT": "FQF3+XF2, Jl. Raya Kp. Sawah, Bojong, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5251177,
+        "Longitude": 106.7536431,
+        "JENIS_UMKM": "Industri Perikanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Industri Perikanan",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7536431,
+          -6.5251177,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 145,
+        "NAMA_UMKM": "RAGA KOMPUTER",
+        "ALAMAT": "Perumahan Ning's Kemang Regency Blok E3-19, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5230547,
+        "Longitude": 106.7511185,
+        "JENIS_UMKM": "Elektronik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Elektronik",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7511185,
+          -6.5230547,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 146,
+        "NAMA_UMKM": "ALIN BONSAI",
+        "ALAMAT": "Jl. Kp. Bojong Hilir Desa, RT.01/RW.09, Bojong, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5243212,
+        "Longitude": 106.7477423,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7477423,
+          -6.5243212,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 147,
+        "NAMA_UMKM": "Al Fatih Steam ( Jenggot )",
+        "ALAMAT": "Jl. Raya Kp. Sawah, Bojong, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5258812,
+        "Longitude": 106.7522135,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7522135,
+          -6.5258812,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 148,
+        "NAMA_UMKM": "Cireng Sehat Id Bogor ( Cirseh Id )",
+        "ALAMAT": "Ning's Kemang Bogor B5 no 7, Kabupaten Bogor, Jawa Barat",
+        "Latitude": -6.522755,
+        "Longitude": 106.7498157,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7498157,
+          -6.522755,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 149,
+        "NAMA_UMKM": "Dimsum Kim Kim",
+        "ALAMAT": "Nings Kemang Regency Blok C1 no 14, Kemang, Bogor Regency, West Java 16310",
+        "Latitude": -6.5225583,
+        "Longitude": 106.74944,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Bojong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.74944,
+          -6.5225583,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 150,
+        "NAMA_UMKM": "Amanti Coffee Shop",
+        "ALAMAT": "Jl. Raya Parung Bogor No.Km 45, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4854137,
+        "Longitude": 106.734575,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.734575,
+          -6.4854137,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 151,
+        "NAMA_UMKM": "Bebek Gimbo Batavia",
+        "ALAMAT": "Ruko pesona batavia R1, Jl. Jampang, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4837528,
+        "Longitude": 106.7329605,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7329605,
+          -6.4837528,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 152,
+        "NAMA_UMKM": "Tulip Logistic Parung by Indoswiss",
+        "ALAMAT": "Jl. Raya Parung, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4840846,
+        "Longitude": 106.7335204,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7335204,
+          -6.4840846,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 153,
+        "NAMA_UMKM": "Taretan Lapis Bogor Sangkuriang",
+        "ALAMAT": "Jl. Raya Parung No.17, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4830598,
+        "Longitude": 106.7323221,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7323221,
+          -6.4830598,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 154,
+        "NAMA_UMKM": "Batavia Kongkow",
+        "ALAMAT": "Perumahan pesona batavia blok G3 nomor 5, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4819774,
+        "Longitude": 106.7330715,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7330715,
+          -6.4819774,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 155,
+        "NAMA_UMKM": "Sablon kaos DTF/DTG PakaiBaju",
+        "ALAMAT": "Perumahan Pesona Batavia C1 No. 5, Jampang, Kemang, Bogor Regency, West Java 16310",
+        "Latitude": -6.4819774,
+        "Longitude": 106.7330715,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7330715,
+          -6.4819774,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 156,
+        "NAMA_UMKM": "Aoera Aloevera",
+        "ALAMAT": "Perumahan Pesona Batavia, Jl. Blk. B2 No.19, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4798578,
+        "Longitude": 106.7353964,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7353964,
+          -6.4798578,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 157,
+        "NAMA_UMKM": "BETTAGIE21",
+        "ALAMAT": "Jl. Kp. Jampang No.48, RT.1/RW.6, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4806033,
+        "Longitude": 106.7283978,
+        "JENIS_UMKM": "Industri Perikanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Industri Perikanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7283978,
+          -6.4806033,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 158,
+        "NAMA_UMKM": "Jampang betta fish",
+        "ALAMAT": "RT.04/RW.06, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4795907,
+        "Longitude": 106.7272032,
+        "JENIS_UMKM": "Industri Perikanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Industri Perikanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7272032,
+          -6.4795907,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 160,
+        "NAMA_UMKM": "RM.PECAK IKAN BPK IDRIS",
+        "ALAMAT": "GPCG+J2C, Jl. Telaga Kahuripan, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4784297,
+        "Longitude": 106.7250048,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7250048,
+          -6.4784297,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 161,
+        "NAMA_UMKM": "Cafe_Senja",
+        "ALAMAT": "Jl. Mad Nur No.99, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4718395,
+        "Longitude": 106.7171621,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7171621,
+          -6.4718395,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 162,
+        "NAMA_UMKM": "Rm.\"Selera Bersama\" Khas Sunda",
+        "ALAMAT": "GPG9+WP7, Jl. Mad Nur, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4727117,
+        "Longitude": 106.7193025,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7193025,
+          -6.4727117,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 163,
+        "NAMA_UMKM": "Sambel Mamake 101 Jampang",
+        "ALAMAT": "Jl. Mad Nur No.101, RT.002/RW.04, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4733919,
+        "Longitude": 106.7209466,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7209466,
+          -6.4733919,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 165,
+        "NAMA_UMKM": "TOKO TEMBAKAU JAMPANG",
+        "ALAMAT": "Kp Gg. Jampang Pulo No.80, RT.004/RW.003, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.470128,
+        "Longitude": 106.7236494,
+        "JENIS_UMKM": "Barang",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7236494,
+          -6.470128,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 166,
+        "NAMA_UMKM": "Nasi Uduk Bento",
+        "ALAMAT": "GPJH+PJM, Jl. Rambutan, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.468163,
+        "Longitude": 106.7290597,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7290597,
+          -6.468163,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 167,
+        "NAMA_UMKM": "Ayam Gemes",
+        "ALAMAT": "Gg. Pinang, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4667916,
+        "Longitude": 106.729655,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.729655,
+          -6.4667916,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 168,
+        "NAMA_UMKM": "Lutfi Buah Segar",
+        "ALAMAT": "Jl. Jampang No.Km 43, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4690515,
+        "Longitude": 106.7292823,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7292823,
+          -6.4690515,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 169,
+        "NAMA_UMKM": "Global sarung jok mobil",
+        "ALAMAT": "Jl. Raya Parung No.42, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4700106,
+        "Longitude": 106.7292658,
+        "JENIS_UMKM": "Barang",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7292658,
+          -6.4700106,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 170,
+        "NAMA_UMKM": "Istana Ponsel (Denis)",
+        "ALAMAT": "Jl. Raya Parung-Bogor, Gg. Harapan No.2 No. 85, RT.001/RW.002, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4712331,
+        "Longitude": 106.7308232,
+        "JENIS_UMKM": "Elektronik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Elektronik",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7308232,
+          -6.4712331,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 171,
+        "NAMA_UMKM": "Add joe's Grill",
+        "ALAMAT": "Pesona Batavia Blok D3 No.3, RT.005/RW.007, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4819774,
+        "Longitude": 106.7330715,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7330715,
+          -6.4819774,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 172,
+        "NAMA_UMKM": "Mie Ayam Baso Gede Rasa",
+        "ALAMAT": "GPFH+HQ5, Jl. Raya Parung, Jampang, Kec. Parung, Kabupaten Bogor, Jawa Barat 16320",
+        "Latitude": -6.4761214,
+        "Longitude": 106.7294942,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7294942,
+          -6.4761214,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 173,
+        "NAMA_UMKM": "SEBLAK TEH MANONG",
+        "ALAMAT": "Gg. Nusa Bangsa, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4739028,
+        "Longitude": 106.7284404,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7284404,
+          -6.4739028,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 174,
+        "NAMA_UMKM": "Madaya Coffee",
+        "ALAMAT": "Kawasan Zona Madina, Jl. Raya Parung Bogor No.KM 42, Jampang, Kemang, Bogor Regency, West Java 16310",
+        "Latitude": -6.4735297,
+        "Longitude": 106.7283563,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7283563,
+          -6.4735297,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 175,
+        "NAMA_UMKM": "Ceker Nampol/Seblak Teh Mala",
+        "ALAMAT": "pulo, RT.03/RW.03, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4712322,
+        "Longitude": 106.7248751,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Jampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7248751,
+          -6.4712322,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 40,
+        "NAMA_UMKM": "Jasmine Aquatic28",
+        "ALAMAT": "GP3V+6MV, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.496899,
+        "Longitude": 106.7441766,
+        "JENIS_UMKM": "Industri Perikanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Ikan",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7441766,
+          -6.496899,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 41,
+        "NAMA_UMKM": "Warung Indomie Ibu Agung",
+        "ALAMAT": "GP2V+6PX, Jl. Kemang Kiara, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4993874,
+        "Longitude": 106.7443452,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Mie",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7443452,
+          -6.4993874,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 42,
+        "NAMA_UMKM": "Warung Pak Darso dan Bu Ami",
+        "ALAMAT": "Jl. candali, Gg. Al-Fitroh batas, RT.03/RW.01, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5024968,
+        "Longitude": 106.7426745,
+        "JENIS_UMKM": "Umum",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Umum",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7426745,
+          -6.5024968,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 43,
+        "NAMA_UMKM": "Kartono",
+        "ALAMAT": "FPXV+96C, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5015655,
+        "Longitude": 106.7430305,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7430305,
+          -6.5015655,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 44,
+        "NAMA_UMKM": "Jammuku",
+        "ALAMAT": "Perumahan Kemang Asri Blok B3/2, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16130",
+        "Latitude": -6.5010177,
+        "Longitude": 106.7436499,
+        "JENIS_UMKM": "Minuman",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Minuman",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7436499,
+          -6.5010177,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 45,
+        "NAMA_UMKM": "Es Kelapa Kang Ucil",
+        "ALAMAT": "FPXV+MR3, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5008724,
+        "Longitude": 106.7445352,
+        "JENIS_UMKM": "Minuman",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Minuman",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7445352,
+          -6.5008724,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 46,
+        "NAMA_UMKM": "Citra Farm Kemang",
+        "ALAMAT": "Gg. Al-Fitroh, RT.04/RW.01, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5023767,
+        "Longitude": 106.7430969,
+        "JENIS_UMKM": "Umum",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Umum",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7430969,
+          -6.5023767,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 47,
+        "NAMA_UMKM": "Depot Air Minum Mineral AQUA dan Le Minerale",
+        "ALAMAT": "FPWV+XQ6, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5025781,
+        "Longitude": 106.7443965,
+        "JENIS_UMKM": "Minuman",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Minuman",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7443965,
+          -6.5025781,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 48,
+        "NAMA_UMKM": "Dapoer 2R",
+        "ALAMAT": "Perumahan Kemang asri blok A8/2, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5010177,
+        "Longitude": 106.7436499,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7436499,
+          -6.5010177,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 49,
+        "NAMA_UMKM": "Warung Sembako Ewin",
+        "ALAMAT": "Gang Kangkung RT. 05 / RW. 01, Jl. Kemang Inpres, Kemang, Bogor, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5105075,
+        "Longitude": 106.7541264,
+        "JENIS_UMKM": "Umum",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Umum",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7541264,
+          -6.5105075,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 50,
+        "NAMA_UMKM": "Aneka Jaya Kemang",
+        "ALAMAT": "Jl. Kemang Kiara No.10, RT.5/RW.1, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.501332,
+        "Longitude": 106.745634,
+        "JENIS_UMKM": "Elektronik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Elektronik",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.745634,
+          -6.501332,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 51,
+        "NAMA_UMKM": "DS Battery 3",
+        "ALAMAT": "Jalan Raya Pabuaran Gg. Kangkung, RT.05/RW.01, Kemang, Bogor Regency, West Java 16310",
+        "Latitude": -6.5015217,
+        "Longitude": 106.7454225,
+        "JENIS_UMKM": "Elektronik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Elektronik",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7454225,
+          -6.5015217,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 52,
+        "NAMA_UMKM": "Batagor Khas Bandung Dan Siomay",
+        "ALAMAT": "FPXW+4GV, Jl. Kemang Kiara, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5021384,
+        "Longitude": 106.7463069,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7463069,
+          -6.5021384,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 53,
+        "NAMA_UMKM": "Toko plastik KEMANG JAYA",
+        "ALAMAT": "Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5027411,
+        "Longitude": 106.7471869,
+        "JENIS_UMKM": "Umum",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Umum",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7471869,
+          -6.5027411,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 54,
+        "NAMA_UMKM": "Rafiq Cell",
+        "ALAMAT": "Kp.kemang, rt01 rw02, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5029025,
+        "Longitude": 106.7470418,
+        "JENIS_UMKM": "Umum",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Umum",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7470418,
+          -6.5029025,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 55,
+        "NAMA_UMKM": "Vie Parfum",
+        "ALAMAT": "FPWW+GQR, Jl. Cikoneng, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5036294,
+        "Longitude": 106.7468913,
+        "JENIS_UMKM": "Parfum",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Parfum",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7468913,
+          -6.5036294,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 56,
+        "NAMA_UMKM": "warung Enah dan Zaidan cell",
+        "ALAMAT": "Jl. Musolah Al Hikmah, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5040594,
+        "Longitude": 106.7477423,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7477423,
+          -6.5040594,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 57,
+        "NAMA_UMKM": "PT JAYA MAKMUR ABADI GARMINDO, ( SIEMASS JAMUR GARMENT)",
+        "ALAMAT": "Jl. Kemang Kiara No.88. RT.03, RW.03, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5045203,
+        "Longitude": 106.7487969,
+        "JENIS_UMKM": "Industri",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Industri",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7487969,
+          -6.5045203,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 58,
+        "NAMA_UMKM": "Adzra Net Counter",
+        "ALAMAT": "Jl. Kemang Kiara No.4, RT.1/RW.3, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5048555,
+        "Longitude": 106.7494889,
+        "JENIS_UMKM": "Elektronik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Elektronik",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7494889,
+          -6.5048555,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 60,
+        "NAMA_UMKM": "Seblak edun asli bandung",
+        "ALAMAT": "Jl. Kemang Kiara No.17, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5055536,
+        "Longitude": 106.7498902,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7498902,
+          -6.5055536,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 61,
+        "NAMA_UMKM": "Karunia Foto Copy",
+        "ALAMAT": "FPVX+JWM, Empang, Jl. Kemang Kiara, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5059052,
+        "Longitude": 106.7497873,
+        "JENIS_UMKM": "Barang dan Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang dan Jasa",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7497873,
+          -6.5059052,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 62,
+        "NAMA_UMKM": "DAPUR KUE MARTA SARI",
+        "ALAMAT": "Jl. Kemang Kiara No.4, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5068841,
+        "Longitude": 106.7497852,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7497852,
+          -6.5068841,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 63,
+        "NAMA_UMKM": "Bu Tati Home. Depot Aquarius",
+        "ALAMAT": "Jl. Kemang Kiara, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5072885,
+        "Longitude": 106.750351,
+        "JENIS_UMKM": "Minuman",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Minuman",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.750351,
+          -6.5072885,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 64,
+        "NAMA_UMKM": "Syatar Cell",
+        "ALAMAT": "FQR2+XMW, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.507511,
+        "Longitude": 106.7517063,
+        "JENIS_UMKM": "Elektronik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Elektronik",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7517063,
+          -6.507511,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 65,
+        "NAMA_UMKM": "catering ibu yuli",
+        "ALAMAT": "sekolahan, RT.05/RW.06, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5081236,
+        "Longitude": 106.751224,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Elektronik",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.751224,
+          -6.5081236,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 66,
+        "NAMA_UMKM": "KEMANG PAD PRINTING (PERCETAKAN MEREK DAN LOGO)",
+        "ALAMAT": "Kp, Jl. Kemang Kiara, RT.02/RW.04, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5082475,
+        "Longitude": 106.7523766,
+        "JENIS_UMKM": "Barang dan Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang dan Jasa",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7523766,
+          -6.5082475,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 67,
+        "NAMA_UMKM": "Nasi Goreng Special Restaurant",
+        "ALAMAT": "FQR3+J7Q, Jl. Kemang Kiara, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5084114,
+        "Longitude": 106.7532283,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7532283,
+          -6.5084114,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 68,
+        "NAMA_UMKM": "Rusvika Elektrik",
+        "ALAMAT": "Jl. Kemang Kiara No.1, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.508651,
+        "Longitude": 106.7536079,
+        "JENIS_UMKM": "Elektronik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Elektronik",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7536079,
+          -6.508651,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 69,
+        "NAMA_UMKM": "TB. Kiara Bangunan",
+        "ALAMAT": "Jl. Kemang Kiara, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5087419,
+        "Longitude": 106.7536907,
+        "JENIS_UMKM": "Toko Material",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Toko Material",
+        "KELURAHAN": "Kemang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7536907,
+          -6.5087419,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 70,
+        "NAMA_UMKM": "Kedai Pojok Bunga",
+        "ALAMAT": "FPXV+QQ6, Jl. Raya Pabuaran, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5005975,
+        "Longitude": 106.7442556,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7442556,
+          -6.5005975,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 71,
+        "NAMA_UMKM": "Warung Sop dan Soto Khas Betawi Pak Ide",
+        "ALAMAT": "JL. Raya Salabenda, Prakan Jawa, RT.02/06, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5355909,
+        "Longitude": 106.7609126,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Sop dan Soto",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7609126,
+          -6.5355909,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 72,
+        "NAMA_UMKM": "Toko Aqeella",
+        "ALAMAT": "FPXR+Q7X, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5005243,
+        "Longitude": 106.74075,
+        "JENIS_UMKM": "ATK",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "ATK",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.74075,
+          -6.5005243,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 73,
+        "NAMA_UMKM": "Toko Dua Putra Furniture",
+        "ALAMAT": "Jl. Raya Pabuaran, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5003974,
+        "Longitude": 106.7402046,
+        "JENIS_UMKM": "Mebel",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Mebel",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7402046,
+          -6.5003974,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 74,
+        "NAMA_UMKM": "Surya jok (sarung jok mobil)",
+        "ALAMAT": "Jln raya kemang cendali, Kp pulo indah No.rt01/02, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5011875,
+        "Longitude": 106.7405625,
+        "JENIS_UMKM": "Barang dan Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang dan Jasa",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7405625,
+          -6.5011875,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 75,
+        "NAMA_UMKM": "SAMUDRA MOTOR (Bubut dan korter)",
+        "ALAMAT": "Jl. Raya Pabuaran, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5012743,
+        "Longitude": 106.7393332,
+        "JENIS_UMKM": "Barang dan Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang dan Jasa",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7393332,
+          -6.5012743,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 76,
+        "NAMA_UMKM": "Hendra las(body repair)",
+        "ALAMAT": "Jl. Sholeh Iskandar Kp Pulo indah No.rt01/02, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5011875,
+        "Longitude": 106.7405625,
+        "JENIS_UMKM": "Barang dan Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang dan Jasa",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7405625,
+          -6.5011875,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 77,
+        "NAMA_UMKM": "Juragan Steam ( Wash Dan Snow )",
+        "ALAMAT": "GP2Q+2HW, Jalan Raya, Pabuaran, Kemang, Bogor Regency, West Java 16310",
+        "Latitude": -6.4998944,
+        "Longitude": 106.7389525,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7389525,
+          -6.4998944,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 78,
+        "NAMA_UMKM": "Ibenk Teknik, Service AC",
+        "ALAMAT": "Kp, Jl. Kiara, RT.02/RW.03, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5014649,
+        "Longitude": 106.7367932,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7367932,
+          -6.5014649,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 79,
+        "NAMA_UMKM": "Toko jual beli tabung gas",
+        "ALAMAT": "GP2P+8Q8, Jl. Raya Pabuaran, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4992053,
+        "Longitude": 106.7369395,
+        "JENIS_UMKM": "Barang dan Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang dan Jasa",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7369395,
+          -6.4992053,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 80,
+        "NAMA_UMKM": "Smile Cell 3 Pabuaran",
+        "ALAMAT": "Jl. Raya Pabuaran, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.49903,
+        "Longitude": 106.734124,
+        "JENIS_UMKM": "Elektronik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Elektronik",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.734124,
+          -6.49903,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 81,
+        "NAMA_UMKM": "Metty Cell",
+        "ALAMAT": "GP2M+596, Jalan Raya, RT.06/RW.02, Pabuaran, Kemang, Bogor Regency, West Java 16310",
+        "Latitude": -6.4995813,
+        "Longitude": 106.7334019,
+        "JENIS_UMKM": "Elektronik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Elektronik",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7334019,
+          -6.4995813,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 82,
+        "NAMA_UMKM": "Poles kaca mobil bogor",
+        "ALAMAT": "Kp situ bakti rt 03/02 ds, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16114",
+        "Latitude": -6.49957,
+        "Longitude": 106.7354,
+        "JENIS_UMKM": "Barang dan Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang dan Jasa",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7354,
+          -6.49957,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 83,
+        "NAMA_UMKM": "Hilya Shop",
+        "ALAMAT": "Jl. Pabuaran Lembur Gede,kp.situ Rt.004/002 No.63, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5091963,
+        "Longitude": 106.7535554,
+        "JENIS_UMKM": "Kosmetik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Kosmetik",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7535554,
+          -6.5091963,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 85,
+        "NAMA_UMKM": "Akmalkian Cell",
+        "ALAMAT": "Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat",
+        "Latitude": -6.4958742,
+        "Longitude": 106.7368999,
+        "JENIS_UMKM": "Elektronik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Elektronik",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7368999,
+          -6.4958742,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 86,
+        "NAMA_UMKM": "Arsyila motor pabuaran",
+        "ALAMAT": "Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4966374,
+        "Longitude": 106.7363506,
+        "JENIS_UMKM": "Barang dan Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang dan Jasa",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7363506,
+          -6.4966374,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 87,
+        "NAMA_UMKM": "Dinar Telur",
+        "ALAMAT": "FPXM+V2V, Jl. Raya Pabuaran, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5002684,
+        "Longitude": 106.7325415,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7325415,
+          -6.5002684,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 88,
+        "NAMA_UMKM": "TB Murni Mandiri",
+        "ALAMAT": "Kp Situ RT 005, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.500523,
+        "Longitude": 106.7324835,
+        "JENIS_UMKM": "Toko Material",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Toko Material",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7324835,
+          -6.500523,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 89,
+        "NAMA_UMKM": "Farm BETTAS STAR CUPANG HIAS",
+        "ALAMAT": "FPXM+5GM, Unnamed Road, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.502043,
+        "Longitude": 106.733796,
+        "JENIS_UMKM": "Industri Perikanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Industri Perikanan",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.733796,
+          -6.502043,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 90,
+        "NAMA_UMKM": "Peternakan Ikan Hias",
+        "ALAMAT": "Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4940621,
+        "Longitude": 106.758337,
+        "JENIS_UMKM": "Industri Perikanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Industri Perikanan",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.758337,
+          -6.4940621,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 91,
+        "NAMA_UMKM": "agen eco racing bogor",
+        "ALAMAT": "Jalan Kiara 2 rt 03/03 Desa pabuaran Kecamatan Kemang, Pabuaran, Kec. Parung, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.50352,
+        "Longitude": 106.7339765,
+        "JENIS_UMKM": "Barang",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7339765,
+          -6.50352,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 92,
+        "NAMA_UMKM": "Bengkel om Wawan",
+        "ALAMAT": "FPWJ+XF7, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5025323,
+        "Longitude": 106.7311899,
+        "JENIS_UMKM": "Barang dan Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang dan Jasa",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7311899,
+          -6.5025323,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 93,
+        "NAMA_UMKM": "Pangkas Rambut Marsbrand",
+        "ALAMAT": "Kecamatan Kemang, Pabuaran, printis, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5013279,
+        "Longitude": 106.7306514,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7306514,
+          -6.5013279,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 94,
+        "NAMA_UMKM": "Mie Ayam PIERO",
+        "ALAMAT": "Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5006953,
+        "Longitude": 106.7302539,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7302539,
+          -6.5006953,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 95,
+        "NAMA_UMKM": "Alfa Rizqi Parabola",
+        "ALAMAT": "Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat",
+        "Latitude": -6.5004911,
+        "Longitude": 106.7289822,
+        "JENIS_UMKM": "Elektronik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Elektronik",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7289822,
+          -6.5004911,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 96,
+        "NAMA_UMKM": "Seblak ibu hayati",
+        "ALAMAT": "FPWG+M5W, Jl. Kp. Kaum, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5032563,
+        "Longitude": 106.7254494,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7254494,
+          -6.5032563,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 97,
+        "NAMA_UMKM": "Bengkel Las Bangkit Mandiri",
+        "ALAMAT": "FPWF+W58, Unnamed Road, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.502716,
+        "Longitude": 106.722939,
+        "JENIS_UMKM": "Barang dan Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang dan Jasa",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.722939,
+          -6.502716,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 98,
+        "NAMA_UMKM": "Kesya store",
+        "ALAMAT": "Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5033399,
+        "Longitude": 106.7234656,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7234656,
+          -6.5033399,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 99,
+        "NAMA_UMKM": "PD. Jaya rahayu kusen",
+        "ALAMAT": "FPX7+8VX, Jl. Raya Pabuaran, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5016438,
+        "Longitude": 106.7147252,
+        "JENIS_UMKM": "Mebel",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Mebel",
+        "KELURAHAN": "Pabuaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7147252,
+          -6.5016438,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 100,
+        "NAMA_UMKM": "Bengkel Mas bobi",
+        "ALAMAT": "GQ33+J45, Kp, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4959948,
+        "Longitude": 106.752872,
+        "JENIS_UMKM": "Barang dan Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang dan Jasa",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.752872,
+          -6.4959948,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 101,
+        "NAMA_UMKM": "Pondok Jaya Motor",
+        "ALAMAT": "GQ33+G7C, Jl. Raya Kemang Parung Bogor, RT.03/RW.01, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5034367,
+        "Longitude": 106.7576859,
+        "JENIS_UMKM": "Barang dan Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang dan Jasa",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7576859,
+          -6.5034367,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 102,
+        "NAMA_UMKM": "Taman Arena Bernyayi queen kafe",
+        "ALAMAT": "Jl. Raya Parung No.RT. 03/01, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.495826,
+        "Longitude": 106.7533108,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7533108,
+          -6.495826,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 103,
+        "NAMA_UMKM": "Warkop teteh lina",
+        "ALAMAT": "Jl. Raya Kemang Parung Bogor, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4954605,
+        "Longitude": 106.7541013,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7541013,
+          -6.4954605,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 104,
+        "NAMA_UMKM": "SEAFOOD 94 DUA PUTRA",
+        "ALAMAT": "GQ32+WQ8, Jl. Raya Kemang Parung Bogor, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4952243,
+        "Longitude": 106.7519441,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7519441,
+          -6.4952243,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 105,
+        "NAMA_UMKM": "WETMART Frozen Food",
+        "ALAMAT": "Jl. Raya Parung No.14, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4947298,
+        "Longitude": 106.7511419,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7511419,
+          -6.4947298,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 106,
+        "NAMA_UMKM": "TB. Andalan Bogor",
+        "ALAMAT": "Jl. Raya Kemang Parung Bogor No.KM. 43, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4944624,
+        "Longitude": 106.7504262,
+        "JENIS_UMKM": "Material",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Material",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7504262,
+          -6.4944624,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 107,
+        "NAMA_UMKM": "Nasi Goreng Rahmat",
+        "ALAMAT": "GP4X+9HR, Jl. Kemang Desa, RT.01/RW.02, Kemang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5124687,
+        "Longitude": 106.7542646,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7542646,
+          -6.5124687,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 108,
+        "NAMA_UMKM": "Warung Nasi Kirana",
+        "ALAMAT": "GP4X+99H, Jl. PWRI, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4940743,
+        "Longitude": 106.7484761,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7484761,
+          -6.4940743,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 111,
+        "NAMA_UMKM": "Seblak Mamah Rizky Pondok Udik",
+        "ALAMAT": "Kp. Pondok Udik Rt. 01/03, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.493551,
+        "Longitude": 106.748339,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.748339,
+          -6.493551,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 113,
+        "NAMA_UMKM": "TB. Bravo Buana Kemang",
+        "ALAMAT": "Jl. Raya Parung No.KM. 26, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4933105,
+        "Longitude": 106.7456432,
+        "JENIS_UMKM": "Material",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Material",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7456432,
+          -6.4933105,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 114,
+        "NAMA_UMKM": "Buana Inti Baja",
+        "ALAMAT": "Jl. Raya Bogor-Parung No.49, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4928493,
+        "Longitude": 106.7454337,
+        "JENIS_UMKM": "Material",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Material",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7454337,
+          -6.4928493,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 115,
+        "NAMA_UMKM": "FAHAMIA PHOTO COPY & PRINTING",
+        "ALAMAT": "Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4940499,
+        "Longitude": 106.7446488,
+        "JENIS_UMKM": "Barang dan Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang dan Jasa",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7446488,
+          -6.4940499,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 116,
+        "NAMA_UMKM": "Warung Akang Solihin",
+        "ALAMAT": "GP4V+CJ4, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4939964,
+        "Longitude": 106.7440879,
+        "JENIS_UMKM": "Umum",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Umum",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7440879,
+          -6.4939964,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 117,
+        "NAMA_UMKM": "Lapak Besi Madura Sattar Km26",
+        "ALAMAT": "Jl. Raya Bogor-Parung, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4928418,
+        "Longitude": 106.7444479,
+        "JENIS_UMKM": "Material",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Material",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7444479,
+          -6.4928418,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 118,
+        "NAMA_UMKM": "Gorengan pengkolan Setu Abah encang",
+        "ALAMAT": "Jl. Gatot Nurmantyo Gg. Pendopo No.245, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4931778,
+        "Longitude": 106.7420752,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7420752,
+          -6.4931778,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 119,
+        "NAMA_UMKM": "Ketoprak telor sdm, pondok udik",
+        "ALAMAT": "Jl. Raya Bogor-Parung, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4918698,
+        "Longitude": 106.742323,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.742323,
+          -6.4918698,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 120,
+        "NAMA_UMKM": "Surabi Rasa",
+        "ALAMAT": "GP5R+7MV, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4917619,
+        "Longitude": 106.7416858,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7416858,
+          -6.4917619,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 121,
+        "NAMA_UMKM": "DZIKRI BATU ALAM",
+        "ALAMAT": "SEBRANG SPBU, Pabuaran, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4908077,
+        "Longitude": 106.7405155,
+        "JENIS_UMKM": "Material",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Material",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7405155,
+          -6.4908077,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 122,
+        "NAMA_UMKM": "Batu Alam Taman Ciremai",
+        "ALAMAT": "Jl. Raya Bogor-Parung No.km26, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4907346,
+        "Longitude": 106.7403306,
+        "JENIS_UMKM": "Material",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Material",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7403306,
+          -6.4907346,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 123,
+        "NAMA_UMKM": "Bengkel Las Rabbani",
+        "ALAMAT": "GP5Q+VCV, Jl. Raya Bogor-Parung, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4902557,
+        "Longitude": 106.7385598,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7385598,
+          -6.4902557,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 125,
+        "NAMA_UMKM": "Mie ayam pangsit 86, pondok udik",
+        "ALAMAT": "GP6P+4V9, Jl. Raya Bogor-Parung, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4857511,
+        "Longitude": 106.7362132,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7362132,
+          -6.4857511,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 126,
+        "NAMA_UMKM": "Mars Aquatic",
+        "ALAMAT": "GP6Q+R2M, Jl. Raya Kemang Parung Bogor, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat",
+        "Latitude": -6.4879233,
+        "Longitude": 106.7375536,
+        "JENIS_UMKM": "Ikan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Ikan",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7375536,
+          -6.4879233,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 127,
+        "NAMA_UMKM": "Batu Alam Budy Jaya Stone",
+        "ALAMAT": "Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4869462,
+        "Longitude": 106.7364888,
+        "JENIS_UMKM": "Material",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Material",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7364888,
+          -6.4869462,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 128,
+        "NAMA_UMKM": "Bengkel aki SINAR GALUH",
+        "ALAMAT": "GP7P+G9X, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4861357,
+        "Longitude": 106.7359921,
+        "JENIS_UMKM": "Barang dan Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang dan Jasa",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7359921,
+          -6.4861357,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 129,
+        "NAMA_UMKM": "T.B. Aneka Logam/Stainless Steel",
+        "ALAMAT": "Jl. Raya Parung-Bogor No. 10 Kampung Babakan Desa Pondok Udik, Pondok Udik, Kemang, Bogor Regency, West Java 16310",
+        "Latitude": -6.4858551,
+        "Longitude": 106.7364052,
+        "JENIS_UMKM": "Material",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Material",
+        "KELURAHAN": "Pondok Udik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7364052,
+          -6.4858551,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 188,
+        "NAMA_UMKM": "Nasi Goreng Boss Candra",
+        "ALAMAT": "FQ25+Q6G, Jalan Letkol, Atang Senjaya, Kemang, Bogor Regency, West Java 16310",
+        "Latitude": -6.5480686,
+        "Longitude": 106.7580815,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Semplak Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7580815,
+          -6.5480686,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 189,
+        "NAMA_UMKM": "Diamond Garage Carwash & AutoDetailing",
+        "ALAMAT": "Jl. Letkol Atang Senjaya No.8, RT.1/RW.2, Semplak Bar., Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5478303,
+        "Longitude": 106.7579273,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Semplak Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7579273,
+          -6.5478303,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 192,
+        "NAMA_UMKM": "Kedai MaiHome",
+        "ALAMAT": "Jl. Atang Senjaya No.48, RW.2, Semplak Bar., Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5474382,
+        "Longitude": 106.7561044,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Semplak Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7561044,
+          -6.5474382,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 193,
+        "NAMA_UMKM": "Adhi Fashion",
+        "ALAMAT": "Jl. Letkol Atang Senjaya No.48, Semplak Bar., Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5469582,
+        "Longitude": 106.7557463,
+        "JENIS_UMKM": "Barang",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang",
+        "KELURAHAN": "Semplak Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7557463,
+          -6.5469582,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 194,
+        "NAMA_UMKM": "KamiKawa Laundry Kiloan & Satuan",
+        "ALAMAT": "Jl. Letkol Atang Senjaya No.5, Semplak Bar., Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5473193,
+        "Longitude": 106.7557466,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Semplak Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7557466,
+          -6.5473193,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 195,
+        "NAMA_UMKM": "Kedai \"Koe\"",
+        "ALAMAT": "FQ34+36G, Jl. Letkol Atang Senjaya, Semplak Bar., Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5473136,
+        "Longitude": 106.7555669,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Semplak Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7555669,
+          -6.5473136,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 196,
+        "NAMA_UMKM": "Mie Ayam Bagaskoro",
+        "ALAMAT": "Jl. Atang Senjaya No.34-36, Semplak Bar., Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5464993,
+        "Longitude": 106.7540025,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Semplak Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7540025,
+          -6.5464993,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 197,
+        "NAMA_UMKM": "Ayam&Bebek Bontot",
+        "ALAMAT": "FQ33+CFP, Semplak Bar., Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.546404,
+        "Longitude": 106.7536944,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Semplak Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7536944,
+          -6.546404,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 198,
+        "NAMA_UMKM": "Saung Sop Duren Al-QORNI",
+        "ALAMAT": "FQ33+F9X, Jl. Atang Senjaya, Semplak Bar., Kec. Kemang, Kota Bogor, Jawa Barat 16310",
+        "Latitude": -6.5462631,
+        "Longitude": 106.7534778,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Semplak Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7534778,
+          -6.5462631,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 199,
+        "NAMA_UMKM": "Kios Pakan Alnajah",
+        "ALAMAT": "FQ33+H73, Semplak Bar., Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5461212,
+        "Longitude": 106.7531607,
+        "JENIS_UMKM": "Barang",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang",
+        "KELURAHAN": "Semplak Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7531607,
+          -6.5461212,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 200,
+        "NAMA_UMKM": "Mandumanten Wedding Organizer",
+        "ALAMAT": "Jl. Greenland Residence, Semplak Bar., Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5461245,
+        "Longitude": 106.7524849,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Semplak Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7524849,
+          -6.5461245,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 201,
+        "NAMA_UMKM": "The Amsak Nusantara Pusat",
+        "ALAMAT": "Parakan Jaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5327317,
+        "Longitude": 106.7621638,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7621638,
+          -6.5327317,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 203,
+        "NAMA_UMKM": "Seblak Bu Ani Bohay",
+        "ALAMAT": "FQC7+4C4, Jl. Sa'ian Idi, Parakan Jaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5297385,
+        "Longitude": 106.763569,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.763569,
+          -6.5297385,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 204,
+        "NAMA_UMKM": "OneSide Betta",
+        "ALAMAT": "Jl. Sa'ian Idi, Parakan Jaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.52982,
+        "Longitude": 106.7633967,
+        "JENIS_UMKM": "Industri Perikanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Industri Perikanan",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7633967,
+          -6.52982,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 205,
+        "NAMA_UMKM": "Shevacell",
+        "ALAMAT": "FQC7+CH2, Jl. Sa'ian Idi, Parakan Jaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5289862,
+        "Longitude": 106.7638971,
+        "JENIS_UMKM": "Elektronik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Elektronik",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7638971,
+          -6.5289862,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 206,
+        "NAMA_UMKM": "PONDOK MAKAN SUPER SAMBAL",
+        "ALAMAT": "Jl. Sholeh Iskandar No.1, Parakan Jaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5268927,
+        "Longitude": 106.7641707,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7641707,
+          -6.5268927,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 207,
+        "NAMA_UMKM": "KEDAI SHOLAWAT",
+        "ALAMAT": "Jl. Sholeh Iskandar No.2, RT.01/RW.04, Kayu Manis, Kec. Tanah Sereal, Kota Bogor, Jawa Barat 16169",
+        "Latitude": -6.5267091,
+        "Longitude": 106.76377,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76377,
+          -6.5267091,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 208,
+        "NAMA_UMKM": "Saung Sambal Salabenda",
+        "ALAMAT": "Jl. Sholeh Iskandar No.2, Kayu Manis, Kec. Tanah Sereal, Kota Bogor, Jawa Barat 16169",
+        "Latitude": -6.5264391,
+        "Longitude": 106.7634963,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7634963,
+          -6.5264391,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 209,
+        "NAMA_UMKM": "PEPES IKAN MAS D'LIMA",
+        "ALAMAT": "FQF6+MMF, Parakan Jaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5258146,
+        "Longitude": 106.7616616,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7616616,
+          -6.5258146,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 210,
+        "NAMA_UMKM": "Kopi 8 Jam",
+        "ALAMAT": "Jl. Salabenda Raya, Parakan Jaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5254073,
+        "Longitude": 106.7616389,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7616389,
+          -6.5254073,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 212,
+        "NAMA_UMKM": "Sukses Mandiri Sejahtera",
+        "ALAMAT": "Jl. Raya Parung No.118, Parakan Jaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5018523,
+        "Longitude": 106.7579199,
+        "JENIS_UMKM": "Material",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Material",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7579199,
+          -6.5018523,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 213,
+        "NAMA_UMKM": "Faiz Furniture",
+        "ALAMAT": "Dewata Hijau, Parakan Jaya, Kemang, Bogor Regency, West Java 16310",
+        "Latitude": -6.5177972,
+        "Longitude": 106.757891,
+        "JENIS_UMKM": "Barang",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.757891,
+          -6.5177972,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 214,
+        "NAMA_UMKM": "HUMAIRA FROZEN FOOD BOGOR",
+        "ALAMAT": "kampung Parakan Salak, Gg. Hanjuang No.desa, RT.:01, rw:01, Parakan Jaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4857872,
+        "Longitude": 106.7362028,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7362028,
+          -6.4857872,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 215,
+        "NAMA_UMKM": "ArieXandria Shop",
+        "ALAMAT": "FQM7+W93, Parakan Jaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5152494,
+        "Longitude": 106.7634258,
+        "JENIS_UMKM": "Barang",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7634258,
+          -6.5152494,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 216,
+        "NAMA_UMKM": "Bakso Mas Joko",
+        "ALAMAT": "Jl. Parakan Jaya No.29, Parakan Jaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5155955,
+        "Longitude": 106.7632666,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7632666,
+          -6.5155955,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 217,
+        "NAMA_UMKM": "Inmythrift & mili_instore",
+        "ALAMAT": "Kp. Parakan Salak, Desa Parakan Jaya, Rt. 002/001 No. 83, Parakan Jaya, Kemang, Bogor Regency, West Java 16310",
+        "Latitude": -6.5158023,
+        "Longitude": 106.7642674,
+        "JENIS_UMKM": "Barang",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7642674,
+          -6.5158023,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 218,
+        "NAMA_UMKM": "Bettakonesia, Budidaya Ikan Cupang",
+        "ALAMAT": "Jl. Setapak No.36, RT.01/RW.02, Parakan Jaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.517249,
+        "Longitude": 106.764737,
+        "JENIS_UMKM": "Industri Perikanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Industri Perikanan",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.764737,
+          -6.517249,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 219,
+        "NAMA_UMKM": "kue kering terdekat",
+        "ALAMAT": "Jl. Perumahan Pandan Valley, Parakan Jaya, kemang bogor, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5200385,
+        "Longitude": 106.7654812,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7654812,
+          -6.5200385,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 220,
+        "NAMA_UMKM": "Warung Gado-Gado Ceu Kokom",
+        "ALAMAT": "Jl. Parakan Jaya No.11, Parakan Jaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5230186,
+        "Longitude": 106.7632849,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7632849,
+          -6.5230186,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 221,
+        "NAMA_UMKM": "D'janda Coffee",
+        "ALAMAT": "Ruko, Jl. Parakan Jaya Jl. Sholeh Iskandar, RT.01/RW.03, Parakan Jaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5244368,
+        "Longitude": 106.7623556,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7623556,
+          -6.5244368,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 223,
+        "NAMA_UMKM": "Kedai Rocky",
+        "ALAMAT": "Jl. Kp. Salabenda No.56, Parakan Jaya, Kec. Kemang, Kota Bogor, Jawa Barat 16310",
+        "Latitude": -6.5263546,
+        "Longitude": 106.7619209,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7619209,
+          -6.5263546,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 224,
+        "NAMA_UMKM": "D’LUR CAFÉ",
+        "ALAMAT": "Jl. Raya Semplak No.21, Parakan Jaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5273394,
+        "Longitude": 106.7619327,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7619327,
+          -6.5273394,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 225,
+        "NAMA_UMKM": "Resto Sate HD",
+        "ALAMAT": "Perumahan kayu manis residence, ruko no.10 (hirotoland, Jl. Salabenda Raya, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5272736,
+        "Longitude": 106.7613057,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": "Parakan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7613057,
+          -6.5272736,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 270,
+        "NAMA_UMKM": "usaha ikan cupang",
+        "ALAMAT": "GPC9+67F, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4794441,
+        "Longitude": 106.7181733,
+        "JENIS_UMKM": "Ikan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Ikan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7181733,
+          -6.4794441,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 272,
+        "NAMA_UMKM": "cemal cemil arra",
+        "ALAMAT": "GPH2+HXG, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4710553,
+        "Longitude": 106.7024585,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7024585,
+          -6.4710553,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 273,
+        "NAMA_UMKM": "uli bakar mang inta",
+        "ALAMAT": "GP82+65G, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4844484,
+        "Longitude": 106.7004429,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7004429,
+          -6.4844484,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 274,
+        "NAMA_UMKM": "BFC UKON NAHROWI",
+        "ALAMAT": "GP72+V5J, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4852878,
+        "Longitude": 106.7003996,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7003996,
+          -6.4852878,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 275,
+        "NAMA_UMKM": "ketoprak mas carmo cabang 2",
+        "ALAMAT": "Gg. Keluarga, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.485225,
+        "Longitude": 106.698181,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.698181,
+          -6.485225,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 276,
+        "NAMA_UMKM": "Farm Koi Bogor / Juragan Ikan Koi",
+        "ALAMAT": "6.476486,106.695780, Jl. Kp. Anyar No.Rt 02/07, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4763971,
+        "Longitude": 106.6958156,
+        "JENIS_UMKM": "Ikan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Ikan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6958156,
+          -6.4763971,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 277,
+        "NAMA_UMKM": "Bakso rindu",
+        "ALAMAT": "Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4823967,
+        "Longitude": 106.7057733,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7057733,
+          -6.4823967,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 278,
+        "NAMA_UMKM": "Bubur Ayam Bapak Dahlan",
+        "ALAMAT": "Jl. Kp. Anyar, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4782927,
+        "Longitude": 106.7006722,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7006722,
+          -6.4782927,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 279,
+        "NAMA_UMKM": "Kedai bosku404",
+        "ALAMAT": "Jl. Kp. Anyar, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4778718,
+        "Longitude": 106.7007817,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7007817,
+          -6.4778718,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 280,
+        "NAMA_UMKM": "Teras Kuliner",
+        "ALAMAT": "Jl. Kp. Anyar No.28, RW.7, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4787013,
+        "Longitude": 106.7012433,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7012433,
+          -6.4787013,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 281,
+        "NAMA_UMKM": "Dedeh Frozen Food",
+        "ALAMAT": "GPC2+F8X, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4787737,
+        "Longitude": 106.700866,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.700866,
+          -6.4787737,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 282,
+        "NAMA_UMKM": "DapurT'ana",
+        "ALAMAT": "Jl. Kp. Anyar No.135, RT.9/RW.7, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4770687,
+        "Longitude": 106.7001318,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7001318,
+          -6.4770687,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 283,
+        "NAMA_UMKM": "Hafidz Store",
+        "ALAMAT": "Jl. Kp. Anyar, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4774056,
+        "Longitude": 106.7000888,
+        "JENIS_UMKM": "Toko",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Toko",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7000888,
+          -6.4774056,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 284,
+        "NAMA_UMKM": "Toko Sembako Putra Lubis",
+        "ALAMAT": "Jl. Kp. Anyar, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4761943,
+        "Longitude": 106.6980543,
+        "JENIS_UMKM": "Sembako",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Sembako",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6980543,
+          -6.4761943,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 285,
+        "NAMA_UMKM": "Toko Bangunan Berkah Rizki",
+        "ALAMAT": "GMFX+H3X, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4760145,
+        "Longitude": 106.6977284,
+        "JENIS_UMKM": "Toko Material",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Toko Material",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6977284,
+          -6.4760145,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 286,
+        "NAMA_UMKM": "Gugun cell",
+        "ALAMAT": "Jl. Kp. Anyar, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4783367,
+        "Longitude": 106.7018832,
+        "JENIS_UMKM": "Elektronik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Elektronik",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7018832,
+          -6.4783367,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 287,
+        "NAMA_UMKM": "Serba-Serbi Ayam",
+        "ALAMAT": "Jl. Kp. Anyar No.51, RT.3/RW.8, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4784525,
+        "Longitude": 106.6963411,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6963411,
+          -6.4784525,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 288,
+        "NAMA_UMKM": "Dapur Si Kembar",
+        "ALAMAT": "GMCX+CRJ, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4789125,
+        "Longitude": 106.699507,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.699507,
+          -6.4789125,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 289,
+        "NAMA_UMKM": "Warung Ayah",
+        "ALAMAT": "GMFW+QWV, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4754994,
+        "Longitude": 106.6974119,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6974119,
+          -6.4754994,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 290,
+        "NAMA_UMKM": "Ridwan's Ikan Koi",
+        "ALAMAT": "Jl. Kp. Anyar, RT.02/RW.07, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4764194,
+        "Longitude": 106.6956267,
+        "JENIS_UMKM": "Ikan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Ikan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6956267,
+          -6.4764194,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 291,
+        "NAMA_UMKM": "chika cell",
+        "ALAMAT": "Jl. Telaga Kahuripan, RT.05/RW.02, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4795844,
+        "Longitude": 106.7182227,
+        "JENIS_UMKM": "Elektronik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Elektronik",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7182227,
+          -6.4795844,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 292,
+        "NAMA_UMKM": "Akira Mart",
+        "ALAMAT": "Jl. Raya Bip Jl. Telaga Kahuripan No.12, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4804572,
+        "Longitude": 106.7177556,
+        "JENIS_UMKM": "Toko",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Toko",
+        "KELURAHAN": "."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7177556,
+          -6.4804572,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 293,
+        "NAMA_UMKM": "Nasi goreng noel",
+        "ALAMAT": "Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4821155,
+        "Longitude": 106.7200499,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7200499,
+          -6.4821155,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 294,
+        "NAMA_UMKM": "Warung Seblak Mamah OMAY",
+        "ALAMAT": "GP89+M96, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4833451,
+        "Longitude": 106.7183878,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7183878,
+          -6.4833451,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 295,
+        "NAMA_UMKM": "Sela Snack",
+        "ALAMAT": "Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.483425,
+        "Longitude": 106.7180259,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7180259,
+          -6.483425,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 296,
+        "NAMA_UMKM": "Bengkel Las Dadi",
+        "ALAMAT": "GP78+HG6, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4860912,
+        "Longitude": 106.7162675,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7162675,
+          -6.4860912,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 299,
+        "NAMA_UMKM": "CAFE POJOK Mozaria Cafe",
+        "ALAMAT": "Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4923875,
+        "Longitude": 106.7186584,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7186584,
+          -6.4923875,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 300,
+        "NAMA_UMKM": "D kriuk Jampang Hambulu",
+        "ALAMAT": "Jl. Parung Hijau Desa Tegal Jampang Hambulu, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.487844,
+        "Longitude": 106.7278414,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7278414,
+          -6.487844,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 301,
+        "NAMA_UMKM": "TB. JAVA DUA",
+        "ALAMAT": "Jl. Parung Hijau Desa Tegal Jampang Hambulu No.18, Pd. Udik, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4887381,
+        "Longitude": 106.7288297,
+        "JENIS_UMKM": "Toko Material",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Toko Material",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7288297,
+          -6.4887381,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 302,
+        "NAMA_UMKM": "seblak",
+        "ALAMAT": "Jl. Parung Hijau Desa Tegal Jampang Hambulu No.1 no. 27, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.489261,
+        "Longitude": 106.7292534,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7292534,
+          -6.489261,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 303,
+        "NAMA_UMKM": "ikan cupang hias",
+        "ALAMAT": "Perum permata kemang block A3 no.9, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4896502,
+        "Longitude": 106.7259295,
+        "JENIS_UMKM": "IKan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "IKan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7259295,
+          -6.4896502,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 304,
+        "NAMA_UMKM": "pecel ayam lamongan",
+        "ALAMAT": "No 03 Kemang Residence, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4896445,
+        "Longitude": 106.7255449,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7255449,
+          -6.4896445,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 306,
+        "NAMA_UMKM": "ayam goreng permata kemang",
+        "ALAMAT": "Unnamed Road, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4898324,
+        "Longitude": 106.7270667,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7270667,
+          -6.4898324,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 307,
+        "NAMA_UMKM": "alby cake's",
+        "ALAMAT": "GP8F+HQ8, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4835755,
+        "Longitude": 106.7244479,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7244479,
+          -6.4835755,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 308,
+        "NAMA_UMKM": "GEK Bakery",
+        "ALAMAT": "Blok A2 No.7, Jl. Raya Bip, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4808559,
+        "Longitude": 106.7175708,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7175708,
+          -6.4808559,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 309,
+        "NAMA_UMKM": "K&S food",
+        "ALAMAT": "Jl. Raya Bip No.28, Tegal, Kemang, Bogor Regency, West Java 16310",
+        "Latitude": -6.4815758,
+        "Longitude": 106.7162235,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7162235,
+          -6.4815758,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 310,
+        "NAMA_UMKM": "WHY parfume inspired",
+        "ALAMAT": "Jl. Telaga Kahuripan Bukit Indraprasta (BIP No.D1/26, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4802999,
+        "Longitude": 106.716924,
+        "JENIS_UMKM": "Perfume",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Perfume",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.716924,
+          -6.4802999,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 311,
+        "NAMA_UMKM": "Bengkel lapar",
+        "ALAMAT": "Samasta Kahuripan, Jl. Raya Jl. Telaga Kahuripan No.1-3, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4807968,
+        "Longitude": 106.7109832,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7109832,
+          -6.4807968,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 312,
+        "NAMA_UMKM": "pempek palembang haihoo",
+        "ALAMAT": "GPC6+2CX, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4798808,
+        "Longitude": 106.7111107,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7111107,
+          -6.4798808,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 313,
+        "NAMA_UMKM": "Bell's frozen food & snacks",
+        "ALAMAT": "Blok A1 no. 12, Perumahan Telaga Kahuripan, Cluster, Jl. Taman Ganesha, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4819987,
+        "Longitude": 106.7015121,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7015121,
+          -6.4819987,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 314,
+        "NAMA_UMKM": "Hanna soto ayam & Mineral Water",
+        "ALAMAT": "Jl. Taman Ganesha No.18, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4824294,
+        "Longitude": 106.6990822,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6990822,
+          -6.4824294,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 315,
+        "NAMA_UMKM": "Gilang cafe",
+        "ALAMAT": "Jl. Raya Bip, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.481248,
+        "Longitude": 106.7186202,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7186202,
+          -6.481248,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 316,
+        "NAMA_UMKM": "tegal resto bakut",
+        "ALAMAT": "GP77+M55, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4858591,
+        "Longitude": 106.7129726,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7129726,
+          -6.4858591,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 317,
+        "NAMA_UMKM": "nasi padang bundo",
+        "ALAMAT": "GP68+G6G, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.488688,
+        "Longitude": 106.7155662,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7155662,
+          -6.488688,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 318,
+        "NAMA_UMKM": "devita pop es",
+        "ALAMAT": "Unnamed Road, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4888681,
+        "Longitude": 106.7154173,
+        "JENIS_UMKM": "Minuman",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Minuman",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7154173,
+          -6.4888681,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 319,
+        "NAMA_UMKM": "radja service laptop, komputer, cctv",
+        "ALAMAT": "Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4903701,
+        "Longitude": 106.7147541,
+        "JENIS_UMKM": "Barang dan Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Barang dan Jasa",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7147541,
+          -6.4903701,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 320,
+        "NAMA_UMKM": "warung seblak the ella",
+        "ALAMAT": "Unnamed Road, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5445199,
+        "Longitude": 106.7603078,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7603078,
+          -6.5445199,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 321,
+        "NAMA_UMKM": "warteg super damai",
+        "ALAMAT": "desa, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4853702,
+        "Longitude": 106.6982054,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6982054,
+          -6.4853702,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 322,
+        "NAMA_UMKM": "warkop A.D.A",
+        "ALAMAT": "Blk. C1 No.1, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4873759,
+        "Longitude": 106.6999581,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6999581,
+          -6.4873759,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 323,
+        "NAMA_UMKM": "kalista donat lumer",
+        "ALAMAT": "Kampung Tegal, RT.3/RW.4, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4938665,
+        "Longitude": 106.7153071,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7153071,
+          -6.4938665,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 324,
+        "NAMA_UMKM": "salad buah cinta 18",
+        "ALAMAT": "Unnamed Road, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4950096,
+        "Longitude": 106.7162093,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7162093,
+          -6.4950096,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 325,
+        "NAMA_UMKM": "ayam bakar pak ruslan k.23",
+        "ALAMAT": "GP48+2JG, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4949476,
+        "Longitude": 106.7165649,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7165649,
+          -6.4949476,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 326,
+        "NAMA_UMKM": "hello bento",
+        "ALAMAT": "Perumahan GPK 1 BLOK N 27, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4953103,
+        "Longitude": 106.717349,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.717349,
+          -6.4953103,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 327,
+        "NAMA_UMKM": "puding susu",
+        "ALAMAT": "Jl. Parung Hijau Desa Tegal Jampang Hambulu, rt3/rw1, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4872132,
+        "Longitude": 106.7257306,
+        "JENIS_UMKM": "Makanan Ringan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan Ringan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7257306,
+          -6.4872132,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 328,
+        "NAMA_UMKM": "afia store",
+        "ALAMAT": "Perumahan grahapura kemang 1 blok N38, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat",
+        "Latitude": -6.4928772,
+        "Longitude": 106.7177927,
+        "JENIS_UMKM": "Toko",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Toko",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7177927,
+          -6.4928772,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 329,
+        "NAMA_UMKM": "o2_food",
+        "ALAMAT": "Perumahan Grahapura Kemang,Blok O No.2, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4938606,
+        "Longitude": 106.7201386,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7201386,
+          -6.4938606,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 330,
+        "NAMA_UMKM": "warung nasi gudeg yuli O3",
+        "ALAMAT": "GP4C+H5J, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4939505,
+        "Longitude": 106.7201266,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7201266,
+          -6.4939505,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 331,
+        "NAMA_UMKM": "latisya cake",
+        "ALAMAT": "GP4C+RC3, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4929858,
+        "Longitude": 106.7210586,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7210586,
+          -6.4929858,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 334,
+        "NAMA_UMKM": "Warung Nasi Pak De Surip",
+        "ALAMAT": "Perumahan Bogor Kemang Residence 2 Blok G5/15, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4896445,
+        "Longitude": 106.7255449,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7255449,
+          -6.4896445,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 335,
+        "NAMA_UMKM": "Ayam Potong Fresh Dan Frozen",
+        "ALAMAT": "Bogor Kemang Residence 2, Blk. E11 No.28, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4896445,
+        "Longitude": 106.7255449,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7255449,
+          -6.4896445,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 336,
+        "NAMA_UMKM": "Alfariz cozy home",
+        "ALAMAT": "Jalan candraloka blok DD 1/6, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.470768,
+        "Longitude": 106.701076,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.701076,
+          -6.470768,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 337,
+        "NAMA_UMKM": "DINDIN FOODS",
+        "ALAMAT": "Jl. Delima II, BKR2, Blk. G4 No.27, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4893861,
+        "Longitude": 106.7249813,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7249813,
+          -6.4893861,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 338,
+        "NAMA_UMKM": "Rumah SR12 Skincare Herbal (Elle Bait)",
+        "ALAMAT": "Bogor Kemang Residence Blok H5 No.34, Tegal, Kemang, Bogor Regency, West Java 16310",
+        "Latitude": -6.4896462,
+        "Longitude": 106.725638,
+        "JENIS_UMKM": "Kosmetik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Kosmetik",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.725638,
+          -6.4896462,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 339,
+        "NAMA_UMKM": "Mama Balqis Risoles & Cake",
+        "ALAMAT": "GM6X+CJX, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4888977,
+        "Longitude": 106.6991162,
+        "JENIS_UMKM": "Makanan Ringan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan Ringan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6991162,
+          -6.4888977,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 340,
+        "NAMA_UMKM": "Mabrur Kurma",
+        "ALAMAT": "Perumahan griya brandweer, Blk. C4 No.9, Tegal, Kec. Parung, Kabupaten Bogor, Jawa Barat 16330",
+        "Latitude": -6.4867707,
+        "Longitude": 106.7002572,
+        "JENIS_UMKM": "Herbal",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Herbal",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7002572,
+          -6.4867707,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 341,
+        "NAMA_UMKM": "warunk aisyah",
+        "ALAMAT": "Jl. Kampung Sasak, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4727004,
+        "Longitude": 106.695758,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.695758,
+          -6.4727004,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 343,
+        "NAMA_UMKM": "Pawon sragen",
+        "ALAMAT": "Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.470992,
+        "Longitude": 106.7013062,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7013062,
+          -6.470992,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 344,
+        "NAMA_UMKM": "Dapur Adas",
+        "ALAMAT": "Perumahan Telaga Kahuripan, Jl. Candraloka BB 3/ No. 8, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4714808,
+        "Longitude": 106.7021578,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7021578,
+          -6.4714808,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 345,
+        "NAMA_UMKM": "Bakso Tombo Ati Mas Pujo",
+        "ALAMAT": "Perum Telaga Kahuripan Candraloka Blok Bb3 No. 22, Kemang, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4712092,
+        "Longitude": 106.7013079,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7013079,
+          -6.4712092,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 346,
+        "NAMA_UMKM": "Warkop Candraloka Nasduk",
+        "ALAMAT": "Jalan Candraloka No.3 Blok AA1, Kemang, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4734187,
+        "Longitude": 106.7026177,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7026177,
+          -6.4734187,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 347,
+        "NAMA_UMKM": "Terminal Pecel Lele",
+        "ALAMAT": "Perum Telaga Kahuripan, Jalan Candraloka Blok BB1 No.7, Kemang, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16330",
+        "Latitude": -6.4725186,
+        "Longitude": 106.7026086,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7026086,
+          -6.4725186,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 348,
+        "NAMA_UMKM": "Plat R",
+        "ALAMAT": "Perum Telaga Kahuripan Candraloka Blok BB1 No. 3A, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16330",
+        "Latitude": -6.4726857,
+        "Longitude": 106.7025691,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7025691,
+          -6.4726857,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 349,
+        "NAMA_UMKM": "Corndog Mozzamy AA14",
+        "ALAMAT": "Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4823967,
+        "Longitude": 106.7057733,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7057733,
+          -6.4823967,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 350,
+        "NAMA_UMKM": "BreadQ Kahuripan",
+        "ALAMAT": "Cluster LPS, D3, Jl. Telaga Kahuripan No.2, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4765485,
+        "Longitude": 106.7079426,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7079426,
+          -6.4765485,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 352,
+        "NAMA_UMKM": "The Box",
+        "ALAMAT": "Jl. Parung Hijau Desa Tegal Jampang Hambulu, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4882754,
+        "Longitude": 106.7176882,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7176882,
+          -6.4882754,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 353,
+        "NAMA_UMKM": "Kedai Ayam Bakar Mas Taqwim",
+        "ALAMAT": "Jl. Parung Hijau Desa Tegal Jampang Hambulu, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4860356,
+        "Longitude": 106.7225501,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7225501,
+          -6.4860356,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 354,
+        "NAMA_UMKM": "Warkop Sri Astuti",
+        "ALAMAT": "Jl. Utama Bogor Kemang Residence, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4890729,
+        "Longitude": 106.7255295,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7255295,
+          -6.4890729,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 355,
+        "NAMA_UMKM": "Ayana's Desert",
+        "ALAMAT": "Bogor Kemang Residence 3, Jl. Camar 4 No.10, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4888722,
+        "Longitude": 106.7204577,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7204577,
+          -6.4888722,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 356,
+        "NAMA_UMKM": "dapoeeer momies dee",
+        "ALAMAT": "Jl. Mangga Raya No.16, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4892882,
+        "Longitude": 106.7209679,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7209679,
+          -6.4892882,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 357,
+        "NAMA_UMKM": "Farel Biyan",
+        "ALAMAT": "GP85+J5W, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4833825,
+        "Longitude": 106.7079625,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7079625,
+          -6.4833825,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 358,
+        "NAMA_UMKM": "Warkop Merry",
+        "ALAMAT": "Jl. Telaga Kahuripan, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4778101,
+        "Longitude": 106.7195129,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7195129,
+          -6.4778101,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 359,
+        "NAMA_UMKM": "Mie Ayam goceng Warung Bu Pepen",
+        "ALAMAT": "Perumahan panorama Kemang 2 Blok L 5 no No. 11, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4913058,
+        "Longitude": 106.7062066,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7062066,
+          -6.4913058,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 360,
+        "NAMA_UMKM": "Mba Yeni Jamu",
+        "ALAMAT": "Jl. Katapang Andir, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.491926,
+        "Longitude": 106.7074055,
+        "JENIS_UMKM": "Herbal",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Herbal",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7074055,
+          -6.491926,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 361,
+        "NAMA_UMKM": "Warung Seblak",
+        "ALAMAT": "Unnamed Road, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.5445199,
+        "Longitude": 106.7603078,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7603078,
+          -6.5445199,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 362,
+        "NAMA_UMKM": "Bakso Aci Bang Reza",
+        "ALAMAT": "Jl. Setapak No.15, RT.06/RW.05, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4931453,
+        "Longitude": 106.7102387,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7102387,
+          -6.4931453,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 363,
+        "NAMA_UMKM": "Si Dia Kopi",
+        "ALAMAT": "Jl. Katapang Andir No.17 RT 06/05, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4934843,
+        "Longitude": 106.7100697,
+        "JENIS_UMKM": "Minuman",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Minuman",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7100697,
+          -6.4934843,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 364,
+        "NAMA_UMKM": "Warung Nasi Mamah Lia",
+        "ALAMAT": "GP47+FVM, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4937849,
+        "Longitude": 106.714662,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.714662,
+          -6.4937849,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 365,
+        "NAMA_UMKM": "Distributor Makaronicuk Bogor",
+        "ALAMAT": "Graha Pura Kemang 1, Kabupaten Bogor, Jawa Barat 16610",
+        "Latitude": -6.4934056,
+        "Longitude": 106.7174175,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7174175,
+          -6.4934056,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 367,
+        "NAMA_UMKM": "Abah Dimsum Lezat",
+        "ALAMAT": "Grahapura kemang 1, Jl. Parung Hijau Desa Tegal Jampang Hambulu, RT.3/RW.4, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4939246,
+        "Longitude": 106.7177037,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7177037,
+          -6.4939246,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 368,
+        "NAMA_UMKM": "Toko MSI",
+        "ALAMAT": "Jl. Bogor Kemang Residence 1, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4901508,
+        "Longitude": 106.7228539,
+        "JENIS_UMKM": "Toko",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Toko",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7228539,
+          -6.4901508,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 369,
+        "NAMA_UMKM": "Nazwa drone",
+        "ALAMAT": "Jl. Parung Hijau Desa pondok udik kp.Hambulu, Tegal, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4853153,
+        "Longitude": 106.7232543,
+        "JENIS_UMKM": "Elektronik",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Elektronik",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7232543,
+          -6.4853153,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 370,
+        "NAMA_UMKM": "Pusat Tenis Meja Butterfly Murah & Berkualitas",
+        "ALAMAT": "Jampang, Poncol, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4796528,
+        "Longitude": 106.7235925,
+        "JENIS_UMKM": "Toko",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Toko",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7235925,
+          -6.4796528,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 371,
+        "NAMA_UMKM": "Bengkel Mobil Supri Mekanik",
+        "ALAMAT": "Jl. Telaga Kahuripan, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4777455,
+        "Longitude": 106.7228517,
+        "JENIS_UMKM": "Jasa",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Jasa",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7228517,
+          -6.4777455,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 372,
+        "NAMA_UMKM": "Bakso Cah Bumiayu Depan Puskesmas Jampang",
+        "ALAMAT": "GPCF+JV2, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4784907,
+        "Longitude": 106.7246444,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7246444,
+          -6.4784907,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "F_": 373,
+        "NAMA_UMKM": "Rm.Pecak Ikan BPK Idris",
+        "ALAMAT": "Jl. Telaga Kahuripan, Jampang, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310",
+        "Latitude": -6.4784297,
+        "Longitude": 106.7250048,
+        "JENIS_UMKM": "Makanan",
+        "KECAMATAN": "Kemang",
+        "PRODUK": "Makanan",
+        "KELURAHAN": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7250048,
+          -6.4784297,
+          0
+        ]
+      }
+    }
+  ]
+}
