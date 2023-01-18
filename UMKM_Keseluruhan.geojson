@@ -1,7 +1,5 @@
 {
 "type": "FeatureCollection",
-"name": "UMKM_Keseluruhan",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "OBJECTID": 1, "F_": 1, "NAMA_UMKM": "Towebaseops", "ALAMAT": "FQ44+G7, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat", "Full_Addre": "FQ44+G7, Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat", "Latitude": -6.5436875, "Longitude": 106.7556875, "JENIS_UMKM": "Makanan", "LATITUDE_1": "-6,543,354,976,577,130", "LONGITUD_1": "10,675,567,286,910,000", "KECAMATAN": "Kemang", "PRODUK": "Makanan", "KELURAHAN": "Atang Sanjaya" }, "geometry": { "type": "Point", "coordinates": [ 106.755687499578528, -6.543687499678299, 0.0 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 2, "F_": 2, "NAMA_UMKM": "Frozen Bakso Sony Lampung", "ALAMAT": "Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310", "Full_Addre": "Atang Senjaya, Kec. Kemang, Kabupaten Bogor, Jawa Barat 16310", "Latitude": -6.5408947, "Longitude": 106.7603239, "JENIS_UMKM": "Makanan", "LATITUDE_1": "-6,543,731,824,124,340", "LONGITUD_1": "10,675,931,436,283,100", "KECAMATAN": "Kemang", "PRODUK": "Makanan", "KELURAHAN": "Atang Sanjaya" }, "geometry": { "type": "Point", "coordinates": [ 106.76032390042775, -6.540894700030321, 0.0 ] } },
