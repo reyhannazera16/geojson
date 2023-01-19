@@ -32,16 +32,7 @@
         "TIPADM": 0,
         "SHAPE_Leng": 0.0500114221923,
         "SHAPE_Area": 0.000142239521197,
-        "Warna": "#660303",
-        "F_": null,
-        "NAMA_UMKM": null,
-        "ALAMAT": null,
-        "Latitude": null,
-        "Longitude": null,
-        "JENIS_UMKM": null,
-        "KECAMATAN": null,
-        "PRODUK": null,
-        "KELURAHAN": null
+        "Warna": "#660303"
       },
       "geometry": {
         "type": "Polygon",
